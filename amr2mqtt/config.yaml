@@ -1,6 +1,6 @@
 ---
 name: AMR2MQTT
-version: "v3.1.0"
+version: "v3.1.1"
 slug: amr2mqtt
 description: AMR2MQTT for Home Assistant
 url: https://github.com/Alvarofg/addon-amr2mqtt
