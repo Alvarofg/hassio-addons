@@ -1,3 +1,5 @@
+# Remember to manually sync schema changes from the source repo
+# Source: https://github.com/Alvarofg/addon-amr2mqtt/blob/main/amr2mqtt/config.yaml
 ---
 name: AMR2MQTT
 version: "v3.1.1"
@@ -30,6 +32,7 @@ schema:
       unit_of_measurement: str?
       manufacturer: str?
       model: str?
+      state_class: str?
   mqtt:
     host: str?
     port: port?
